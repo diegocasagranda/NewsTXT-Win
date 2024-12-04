@@ -12,3 +12,4 @@ pip install BeautifulSoup4 requests lxml
 ```
 
 ![screenshot](screen1.png)
+![screenshot](screen2.png)
